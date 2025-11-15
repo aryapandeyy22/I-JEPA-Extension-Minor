@@ -11,7 +11,7 @@ This project extends Meta’s **I-JEPA (Image-based Joint Embedding Predictive A
 
 ---
 
-## 🚀 Proposed Framework
+## Proposed Framework
 
 Below is the complete architecture used in this project:
 
@@ -100,7 +100,7 @@ This script:
 
 
 
-## ▶️ Run Evaluation (Linear Probe + t-SNE)
+##  Run Evaluation (Linear Probe + t-SNE)
 
 ```python
 python evaluate_embeddings.py
